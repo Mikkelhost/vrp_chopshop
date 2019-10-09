@@ -40,7 +40,6 @@ function generateVehicle()
 end
 
 local vehToChop = nil
-local vehToChopName = nil
 local index = nil
 
 Citizen.CreateThread(function()
